@@ -1,0 +1,4 @@
+INFO: Starting JuniorCrudServiceApplication using Java 17.0.7
+DEBUG: User admin created
+ERROR: Can not connect to server
+INFO: User logged in
